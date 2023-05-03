@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yjwong1999&count_private=true&theme=react&bg_color=20232A">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=yjwong1999&count_private=true&theme=react&bg_color=20232A">
 </div>
 
 <table cellspacing="0" cellpadding="0">
@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+<!--
 <div align=center>
   <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=yjwong1999&theme=react-dark&bg_color=20232A">
 </div>
+-->
