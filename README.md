@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🔭 I’m currently working on Deep Reinforcement Learning and Federated Learning
 
 <!--
 **yjwong1999/yjwong1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
