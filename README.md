@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
     <td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=yjwong1999&count_private=true&theme=react&bg_color=20232A"></td>
-    <td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjwong1999&langs_count=8&hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
+    <td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjwong1999&langs_count=6&hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
   </tr>
 </table>
 
