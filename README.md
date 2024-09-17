@@ -5,8 +5,9 @@
 ## 🔭 My Main Research Area(s) are Deep Reinforcement Learning and Federated Learning
 
 ### Current Research Area(s):
-- 🎥 Video Streaming & QoE
+- 🌨️ Diffusion Model
 - ☁️ 3D Point Cloud Detection
+- 🎥 Video Streaming & QoE
 - 📷 Multi Camera Face Detection and Recognition
 
 <!--
