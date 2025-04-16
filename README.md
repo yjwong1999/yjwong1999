@@ -10,6 +10,18 @@
 - 🎥 Video Streaming & QoE
 - 📷 Multi Camera Face Detection and Recognition
 
+### Competitions
+- Top 10 @ 2024 EY Open Science Data Challenge 👉 [code](https://github.com/Double-Y-EY-Challenge-2024/EY-challenge-2024), [paper](http://dx.doi.org/10.36227/techrxiv.172963135.56918790/v1)
+- Champion @ IEEE Big Data 2024: Building Extraction Generalization Challenge 👉
+- Top 3 @ IJCNN 2025: 8th WOSDETC Drone-vs-Bird Detection Challenge 👉
+
+<table cellspacing="0" cellpadding="0">
+  <tr align="center" valign="middle">
+    <td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=yjwong1999&count_private=true&theme=react&bg_color=20232A"></td>
+    <td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjwong1999&langs_count=6&hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
+  </tr>
+</table>
+
 <!--
 **yjwong1999/yjwong1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,12 +36,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<table cellspacing="0" cellpadding="0">
-  <tr align="center" valign="middle">
-    <td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=yjwong1999&count_private=true&theme=react&bg_color=20232A"></td>
-    <td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjwong1999&langs_count=6&hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
-  </tr>
-</table>
-
