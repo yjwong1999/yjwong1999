@@ -6,6 +6,7 @@
 
 ### Current Research Area(s):
 - 🌨️ Diffusion Model
+- 🛰️ Aerial Object Detection
 - ☁️ 3D Point Cloud Detection
 - 🎥 Video Streaming & QoE
 - 📷 Multi Camera Face Detection and Recognition
