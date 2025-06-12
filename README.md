@@ -14,7 +14,7 @@
 - 🏆 Top 10 @ 2024 EY Open Science Data Challenge 👉 [code](https://github.com/Double-Y-EY-Challenge-2024/EY-challenge-2024), [paper](http://dx.doi.org/10.36227/techrxiv.172963135.56918790/v1)
 - 🥇 Champion @ IEEE Big Data 2024: Building Extraction Generalization Challenge 👉 [code-1](https://github.com/yjwong1999/RSBuildingExtraction), [code-2](https://github.com/yjwong1999/RSGuidedDiffusion), [paper](https://doi.org/10.1109/BigData62323.2024.10825702)
 - 🥉 Top 3 @ IJCNN 2025: 8th WOSDETC Drone-vs-Bird Detection Challenge 👉 [code](https://github.com/yjwong1999/IJCNN2025-DvB), [preprint](https://doi.org/10.36227/techrxiv.174495627.74350303/v1)
-- 🥇 Champion @ ICIP 2025 - CADOT Challenge [code](https://github.com/yjwong1999/Double_J_CADOT_Challenge)
+- 🥇 Champion @ ICIP 2025 - CADOT Challenge 👉 [code](https://github.com/yjwong1999/Double_J_CADOT_Challenge)
 
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
