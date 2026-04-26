@@ -17,6 +17,7 @@
 - 🥉 Top 3 @ IJCNN 2025: 8th WOSDETC Drone-vs-Bird Detection Challenge 👉 [code](https://github.com/yjwong1999/IJCNN2025-DvB), [preprint](https://doi.org/10.36227/techrxiv.174495627.74350303/v1)
 - 🥇 Champion @ ICIPW 2025 - Challenge on Cityscape Aerial Image Dataset for Object Detection (CADOT) 👉 [code](https://github.com/yjwong1999/Double_J_CADOT_Challenge), [preprint](https://github.com/yjwong1999/Double_J_CADOT_Challenge/blob/62df466d9ccf2ccdd39ef44a34f34ff62b387fca/report/Tri-Axial%20Scaling%20In%20Aerial%20Object%20Detection%20Model%20Size%2C%20Dataset%20Size%20and%20Quality%2C%20and%20Test-Time%20Inference%20In%20the%20Cadot%20Challenge.pdf)
 - 🏆 Top 4 @ CVPRW 2026 - Challenge on Efficient VLM for Multimodal Creative Quality Scoring 👉 [code](https://github.com/yinloonkhor/CVPR2026-EffiMiniVLM), [preprint](https://arxiv.org/pdf/2604.03172)
+- 🥈 Top 2 @ ICMEW 2026 - Scientific Image Quality Assessment Challenge (SIQA) - Scoring Track 👉 Code and Paper to be added
 
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
